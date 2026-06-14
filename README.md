@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">Olá!!! Sou estudante de engenharia de software na Univerisdade de Mogi das Cruzes, busco me profissionalizar nas minhas áreas de interesse que são: desenvolvimento backend, com estudos em computação em nuvem.<br>Com esse perfil pretendo compartilhar meus projetos, registrar minha evolução e aplicar melhoria contínua na minha trajetória.</p>
+<p align="left">Olá!!! Sou estudante de Engenharia de Software na Universidade de Mogi das Cruzes (UMC) e busco me profissionalizar nas minhas áreas de interesse: desenvolvimento backend e cibersegurança, especialmente na área de Pentest.
+Por meio deste perfil, pretendo compartilhar meus projetos, registrar minha evolução e aplicar o conceito de melhoria contínua ao longo da minha trajetória profissional.
+.</p>
 
 ###
 
